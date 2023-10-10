@@ -516,6 +516,36 @@ font-family: 'PT Serif', serif;
     transform: rotate(370deg) scale(1);
   }
 }
+.container-about{
+  margin-left: 445px;
+  padding-top: 100px;
+  padding-left: 100px;
+  height: 100vh;
+  width: 66%;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: top;
+}
+
+.sub-info{
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  color: #004975;
+}
+
+.display-30 {
+  font-size: 0.9rem;
+}
+
+
+
+
+
 
   
   @keyframes slideFromTop {
